@@ -1,1 +1,2 @@
-This is my first example of a sample.txt file for github.
+This is my first example of a sample.txt file for github. 
+Paste-3 are working together on git. We work well together!
